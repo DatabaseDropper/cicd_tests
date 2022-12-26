@@ -1,3 +1,3 @@
 ﻿Console.WriteLine($"START {DateTime.Now}");
-Thread.Sleep(25000);
+Thread.Sleep(21000);
 Console.WriteLine($"END {DateTime.Now}");
